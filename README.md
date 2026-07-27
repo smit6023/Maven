@@ -1,4 +1,4 @@
-# MavenDemoApp
+# Maven
 
 This project was created to learn the basics of Apache Maven and understand how Maven is used to build and manage Java applications.
 
