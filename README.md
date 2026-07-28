@@ -14,3 +14,5 @@ This project was created to learn the basics of Apache Maven and understand how 
 - Java
 - Apache Maven
 
+## Author
+Smit Kapuriya
